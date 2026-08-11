@@ -63,7 +63,7 @@ Após selecionar o candidato, clique no botão Votar, localizado na parte inferi
 
 
 
-Após clicar no botão de ‘Votar’ aparecerá a imagem abaixo.
+Após clicar no botão de **Votar** aparecerá a imagem abaixo.
 
 <img width="642" height="220" alt="image" src="https://github.com/user-attachments/assets/7a0908ab-6c7f-400b-ade6-1905862d8179" />
 
